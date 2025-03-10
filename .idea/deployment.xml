@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/dhu424b/hgy/code/put-33" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="22 (project level)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="huangguangyuan@10.199.161.0:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/huangguangyuan/code/A_sec/put-33" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/huangguangyuan/code/A_sec/put-transformer/scripts/OUTPUT/pvqvae_ffhq_21/checkpoint/000149e_93749iter.pth" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="huangguangyuan@10.199.161.162:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="huangguangyuan@10.199.161.185:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="huangguangyuan@10.199.161.185:22 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
